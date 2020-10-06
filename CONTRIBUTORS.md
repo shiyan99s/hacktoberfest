@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shiyan Shirani](https://github.com/shiyan99s)
+- Place: New Delhi, India
+- Bio: Python Enthusiast
+- Github: [shiyan99s](https://github.com/shiyan99s)
